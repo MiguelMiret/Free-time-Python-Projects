@@ -1,3 +1,5 @@
+# A code to plot statically in 3D a dynamical system's evolution (currently lorenz attractor).
+
 import matplotlib as mpl
 import matplotlib.pyplot as plt
 import numpy as np
