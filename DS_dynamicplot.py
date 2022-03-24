@@ -95,19 +95,6 @@ def main():
 
 
 
-'''
-    # Ensure the entire plot is visible
-    fig.tight_layout()
-
-
-
-
-
-    plt.subplots_adjust(bottom = 0.2, top = 0.9) #ensuring the dates (on the x-axis) fit in the screen
-'''
-
-
-
 if __name__ == '__main__':
 	main()
 
